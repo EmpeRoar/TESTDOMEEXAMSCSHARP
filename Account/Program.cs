@@ -2,11 +2,12 @@
 
 public class Account
 {
-
-
     [Flags]
     public enum Access
     {
+        Writer,
+        Editor,
+        Owner,
         Delete,
         Publish,
         Submit,
@@ -14,18 +15,18 @@ public class Account
         Modify
     }
 
-   
+    [Flags]
     public enum Writer
     {
         Submit = Access.Submit,
         Modify = Access.Modify
     }
 
-  
+    [Flags]
     public enum Editor
     {
-        Publish = Access.Publish,
         Delete = Access.Delete,
+        Publish = Access.Publish,
         Comment = Access.Comment
     }
 
@@ -34,16 +35,16 @@ public class Account
     {
         Submit = Access.Submit,
         Modify = Access.Modify,
-        Publish = Access.Publish,
         Delete = Access.Delete,
+        Publish = Access.Publish,
         Comment = Access.Comment
     }
 
 
 
-
     public static void Main(string[] args)
     {
+        
         Console.WriteLine(Access.Writer.HasFlag(Access.Delete)); //Should print: "False"
     }
 }
