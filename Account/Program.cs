@@ -1,12 +1,19 @@
 ﻿using System;
 
-namespace Account
+public class Account
 {
-    class Program
+    [Flags]
+    public enum Access
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        Delete,
+        Publish,
+        Submit,
+        Comment,
+        Modify
+    }
+
+    public static void Main(string[] args)
+    {
+        //Console.WriteLine(Access.Writer.HasFlag(Access.Delete)); //Should print: "False"
     }
 }
