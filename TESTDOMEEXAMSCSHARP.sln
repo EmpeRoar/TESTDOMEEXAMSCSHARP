@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTDOMEEXAMSCSHARP", "TESTDOMEEXAMSCSHARP\TESTDOMEEXAMSCSHARP.csproj", "{A7484017-0AA3-4993-9EF7-2CE6AB8145B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistSong", "PlaylistSong\PlaylistSong.csproj", "{817D482B-A67C-4AD6-ACE8-37084C3C6EAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A7484017-0AA3-4993-9EF7-2CE6AB8145B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7484017-0AA3-4993-9EF7-2CE6AB8145B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7484017-0AA3-4993-9EF7-2CE6AB8145B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817D482B-A67C-4AD6-ACE8-37084C3C6EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817D482B-A67C-4AD6-ACE8-37084C3C6EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817D482B-A67C-4AD6-ACE8-37084C3C6EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817D482B-A67C-4AD6-ACE8-37084C3C6EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
