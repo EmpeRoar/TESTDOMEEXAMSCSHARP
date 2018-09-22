@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{9B80B746-2D93-4751-9D9B-618D07FA3EB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorStream", "DecoratorStream\DecoratorStream.csproj", "{4BFFD441-ECAE-4E18-B4D0-752FACF0589C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSearch", "SortedSearch\SortedSearch.csproj", "{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{9B80B746-2D93-4751-9D9B-618D07FA3EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B80B746-2D93-4751-9D9B-618D07FA3EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B80B746-2D93-4751-9D9B-618D07FA3EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFFD441-ECAE-4E18-B4D0-752FACF0589C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFFD441-ECAE-4E18-B4D0-752FACF0589C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFFD441-ECAE-4E18-B4D0-752FACF0589C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFFD441-ECAE-4E18-B4D0-752FACF0589C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
