@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistSong", "PlaylistSon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{2AEE914A-5BF6-4297-8B83-2AD56C39D971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{4B48D9F7-E4BE-46D0-8DCE-E35133ACA8DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2AEE914A-5BF6-4297-8B83-2AD56C39D971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AEE914A-5BF6-4297-8B83-2AD56C39D971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AEE914A-5BF6-4297-8B83-2AD56C39D971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B48D9F7-E4BE-46D0-8DCE-E35133ACA8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B48D9F7-E4BE-46D0-8DCE-E35133ACA8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B48D9F7-E4BE-46D0-8DCE-E35133ACA8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B48D9F7-E4BE-46D0-8DCE-E35133ACA8DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
