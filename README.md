@@ -7,5 +7,9 @@ https://www.testdome.com/questions/original/18996
 
 
 
-SQL UNION DISTINCT
-select distinct name from (select name from dogs union all select name from cats);
+SQL UNION DISTINCT <br/>
+select distinct name from (select name from dogs union all select name from cats);<br/>
+
+
+<br/>
+ select userId, avg(duration) from sessions group by userId having count(*) > 1;
