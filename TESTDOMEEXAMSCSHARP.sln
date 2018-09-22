@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{78455E7A-D487-424C-8070-651104F640B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{9B80B746-2D93-4751-9D9B-618D07FA3EB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{78455E7A-D487-424C-8070-651104F640B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78455E7A-D487-424C-8070-651104F640B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78455E7A-D487-424C-8070-651104F640B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B80B746-2D93-4751-9D9B-618D07FA3EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B80B746-2D93-4751-9D9B-618D07FA3EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B80B746-2D93-4751-9D9B-618D07FA3EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B80B746-2D93-4751-9D9B-618D07FA3EB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
