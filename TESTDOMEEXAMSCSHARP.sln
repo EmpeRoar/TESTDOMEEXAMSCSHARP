@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTDOMEEXAMSCSHARP", "TESTDOMEEXAMSCSHARP\TESTDOMEEXAMSCSHARP.csproj", "{A7484017-0AA3-4993-9EF7-2CE6AB8145B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TESTDOMEEXAMSCSHARP", "TESTDOMEEXAMSCSHARP\TESTDOMEEXAMSCSHARP.csproj", "{A7484017-0AA3-4993-9EF7-2CE6AB8145B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistSong", "PlaylistSong\PlaylistSong.csproj", "{817D482B-A67C-4AD6-ACE8-37084C3C6EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaylistSong", "PlaylistSong\PlaylistSong.csproj", "{817D482B-A67C-4AD6-ACE8-37084C3C6EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{2AEE914A-5BF6-4297-8B83-2AD56C39D971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInput", "UserInput\UserInput.csproj", "{2AEE914A-5BF6-4297-8B83-2AD56C39D971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{4B48D9F7-E4BE-46D0-8DCE-E35133ACA8DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{4B48D9F7-E4BE-46D0-8DCE-E35133ACA8DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{78455E7A-D487-424C-8070-651104F640B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{78455E7A-D487-424C-8070-651104F640B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{9B80B746-2D93-4751-9D9B-618D07FA3EB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account", "Account\Account.csproj", "{9B80B746-2D93-4751-9D9B-618D07FA3EB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorStream", "DecoratorStream\DecoratorStream.csproj", "{4BFFD441-ECAE-4E18-B4D0-752FACF0589C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorStream", "DecoratorStream\DecoratorStream.csproj", "{4BFFD441-ECAE-4E18-B4D0-752FACF0589C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSearch", "SortedSearch\SortedSearch.csproj", "{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedSearch", "SortedSearch\SortedSearch.csproj", "{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassportQueue", "LiveCode10\PassportQueue.csproj", "{C0FC170D-CD6C-440C-A911-8333C56916BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C9B14DD-A2EE-4965-8DA0-9CB518543CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FC170D-CD6C-440C-A911-8333C56916BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FC170D-CD6C-440C-A911-8333C56916BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FC170D-CD6C-440C-A911-8333C56916BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FC170D-CD6C-440C-A911-8333C56916BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
